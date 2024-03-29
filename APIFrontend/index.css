@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+#form {
+  margin-left: 25%;
+  margin-top: 7%;
+  color: darkcyan;
+  align-items: center;
+}
+input[type="text"] {
+  width: 70%; /* Adjust the width as needed */
+}
+
+input[type="file"] {
+  margin: 20px; /* Adjust the width as needed */
+}
